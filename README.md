@@ -1,2 +1,2 @@
 # compiler-ALGOL16
-Compiler ALGOL16
+[Prolog] Compiler ALGOL16
